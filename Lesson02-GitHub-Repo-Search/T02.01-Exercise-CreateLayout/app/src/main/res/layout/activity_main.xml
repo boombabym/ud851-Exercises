@@ -37,7 +37,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/et_search_box"
         android:textSize="22sp"
-        android:hint="Type your query and tap Search!"/>
+        android:hint="Type your query and tap Search!" />
     <!--TODO (8) Give the EditText an id of @+id/et_search_box-->
     <!--TODO (9) Set the text size to 22sp-->
     <!--TODO (10) Set the width to match_parent and the height to wrap_content-->
