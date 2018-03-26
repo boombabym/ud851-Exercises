@@ -119,7 +119,6 @@
             android:layout_height="wrap_content"
             android:textAppearance="@style/TextAppearance.AppCompat.Caption"
             android:letterSpacing="0.3"
-            android:layout_marginStar="40dp"
             app:layout_constraintLeft_toRightOf="@+id/textViewBoardingTime"
             app:layout_constraintTop_toTopOf="@+id/textViewBoardingTimeLabel"
             android:layout_marginStart="120dp"
